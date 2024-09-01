@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 #### This is How it Looks like...
 
@@ -26,3 +27,7 @@ An open-source project for ROSP Lab based on Tourism website
 ## LICENSE
 
 [MIT LICENSE](https://github.com/jay-2000/TourIt/blob/main/LICENSE)
+=======
+# TourIT
+ROSP Application
+>>>>>>> 5737dda0c2bf496a14d3f77f23da21d655d06164
